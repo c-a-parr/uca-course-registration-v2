@@ -31,4 +31,8 @@ Paths come from system properties/env
 - courses.csv: code,title,capacity
 - enrollments.csv: courseCode|studentId|ENROLLED or WAITLIST
 
+# Updated instructions for Testing
+- For terminal use mvn test or mvn -q test
+- For IDE simply go to the test file and run it using the button
+
 **Note: On startup, enrollments are replayed to rebuild rosters/waitlists (FIFO preserved).**
