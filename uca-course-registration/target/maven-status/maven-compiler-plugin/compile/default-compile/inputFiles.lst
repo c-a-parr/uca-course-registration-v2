@@ -1,0 +1,17 @@
+/Users/connor/Downloads/uca-course-registration/src/main/java/edu/uca/registration/repo/csv/CsvCourseRepository.java
+/Users/connor/Downloads/uca-course-registration/src/main/java/edu/uca/registration/repo/StudentRepository.java
+/Users/connor/Downloads/uca-course-registration/src/main/java/edu/uca/registration/repo/csv/CsvStudentRepository.java
+/Users/connor/Downloads/uca-course-registration/src/main/java/edu/uca/registration/repo/csv/CsvEnrollmentRepository.java
+/Users/connor/Downloads/uca-course-registration/src/main/java/edu/uca/registration/repo/CourseRepository.java
+/Users/connor/Downloads/uca-course-registration/src/main/java/edu/uca/registration/util/Log.java
+/Users/connor/Downloads/uca-course-registration/src/main/java/edu/uca/registration/repo/EnrollmentRepository.java
+/Users/connor/Downloads/uca-course-registration/src/main/java/edu/uca/registration/app/Cli.java
+/Users/connor/Downloads/uca-course-registration/src/main/java/edu/uca/registration/util/Config.java
+/Users/connor/Downloads/uca-course-registration/src/main/java/edu/uca/registration/util/Validation.java
+/Users/connor/Downloads/uca-course-registration/src/main/java/edu/uca/registration/service/RegistrationService.java
+/Users/connor/Downloads/uca-course-registration/src/main/java/edu/uca/registration/exception/NotFoundException.java
+/Users/connor/Downloads/uca-course-registration/src/main/java/edu/uca/registration/model/Course.java
+/Users/connor/Downloads/uca-course-registration/src/main/java/edu/uca/registration/exception/ValidationException.java
+/Users/connor/Downloads/uca-course-registration/src/main/java/edu/uca/registration/Main.java
+/Users/connor/Downloads/uca-course-registration/src/main/java/edu/uca/registration/model/Student.java
+/Users/connor/Downloads/uca-course-registration/src/main/java/edu/uca/registration/exception/EnrollmentException.java
